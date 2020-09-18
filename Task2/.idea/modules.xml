@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AzureBloblStoragePersistance/.idea/AzureBloblStoragePersistance.iml" filepath="$PROJECT_DIR$/../AzureBloblStoragePersistance/.idea/AzureBloblStoragePersistance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AzureResourceManagerService/.idea/AzureResourceManagerService.iml" filepath="$PROJECT_DIR$/../AzureResourceManagerService/.idea/AzureResourceManagerService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DatabasePersistance/.idea/DatabasePersistance.iml" filepath="$PROJECT_DIR$/../DatabasePersistance/.idea/DatabasePersistance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JsonPersistance/.idea/JsonPersistance.iml" filepath="$PROJECT_DIR$/../JsonPersistance/.idea/JsonPersistance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Task2.iml" filepath="$PROJECT_DIR$/.idea/Task2.iml" />
+    </modules>
+  </component>
+</project>

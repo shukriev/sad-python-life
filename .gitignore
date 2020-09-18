@@ -1,6 +1,9 @@
 # IDE
 .idea/*
 .vscode/*
+*/.idea/*
+
+AzureBloblStoragePersistance/data/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
